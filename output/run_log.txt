@@ -1,0 +1,7 @@
+[16:01:14] Loading snapshots: yesterday.json and today.json
+[16:01:14] Diffing snapshots
+[16:01:14] Found 5 changes  ·  high=3, medium=1, low=1
+[16:01:14] Enriching meaningful changes with mock interpreter (set ANTHROPIC_API_KEY for real run)
+[16:01:14] Writing HTML digest -> daily_digest.html
+[16:01:14] Writing CSV -> changes.csv
+[16:01:14] Skipping email send (no SMTP_HOST set)
