@@ -1,0 +1,69 @@
+{
+  "scraped_at": "2026-05-15T08:00:00Z",
+  "our_product": "TaskFlow Pro",
+  "competitors": [
+    {
+      "vendor": "Asana",
+      "url": "https://asana.com/pricing",
+      "scrape_status": "success",
+      "products": [
+        {"tier": "Personal", "price_usd": 0.00, "billing": "free", "notes": "up to 10 users"},
+        {"tier": "Starter", "price_usd": 13.49, "billing": "per_user_per_month_annual"},
+        {"tier": "Advanced", "price_usd": 30.49, "billing": "per_user_per_month_annual"}
+      ]
+    },
+    {
+      "vendor": "ClickUp",
+      "url": "https://clickup.com/pricing",
+      "scrape_status": "success",
+      "products": [
+        {"tier": "Free Forever", "price_usd": 0.00, "billing": "free"},
+        {"tier": "Unlimited", "price_usd": 7.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Business", "price_usd": 19.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Business Plus", "price_usd": 29.00, "billing": "per_user_per_month_annual"}
+      ]
+    },
+    {
+      "vendor": "Monday.com",
+      "url": "https://monday.com/pricing",
+      "scrape_status": "success",
+      "products": [
+        {"tier": "Free", "price_usd": 0.00, "billing": "free", "notes": "up to 2 seats"},
+        {"tier": "Basic", "price_usd": 9.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Standard", "price_usd": 12.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Pro", "price_usd": 19.00, "billing": "per_user_per_month_annual"}
+      ]
+    },
+    {
+      "vendor": "Notion",
+      "url": "https://notion.so/pricing",
+      "scrape_status": "success",
+      "products": [
+        {"tier": "Free", "price_usd": 0.00, "billing": "free"},
+        {"tier": "Plus", "price_usd": 8.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Business", "price_usd": 15.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Enterprise", "price_usd": 25.00, "billing": "per_user_per_month_annual"}
+      ]
+    },
+    {
+      "vendor": "Trello",
+      "url": "https://trello.com/pricing",
+      "scrape_status": "success",
+      "products": [
+        {"tier": "Free", "price_usd": 0.00, "billing": "free"},
+        {"tier": "Standard", "price_usd": 5.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Premium", "price_usd": 10.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Enterprise", "price_usd": 17.50, "billing": "per_user_per_month_annual"}
+      ]
+    },
+    {
+      "vendor": "Linear",
+      "url": "https://linear.app/pricing",
+      "scrape_status": "success",
+      "products": [
+        {"tier": "Standard", "price_usd": 8.00, "billing": "per_user_per_month_annual"},
+        {"tier": "Plus", "price_usd": 14.00, "billing": "per_user_per_month_annual"}
+      ]
+    }
+  ]
+}
